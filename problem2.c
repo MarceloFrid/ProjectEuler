@@ -7,7 +7,6 @@ void next_even_fibonacci(int* odd_fib, int* even_fib) {
 	}
 }
 
-
 int main() {
 	int odd_fib = 1, even_fib = 2;
 	int sum = even_fib;
